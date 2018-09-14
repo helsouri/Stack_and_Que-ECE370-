@@ -3,3 +3,4 @@ Utilize classes for stakcs and ques to be able to convert infix mathmatical expr
 The infix expression is provided through a text file and the program is supposed to output the postfix expression. <br>
 Files include main c file along with the data text file,and output(v1) <br>
 _Code also includes a file implementing stacks and queues in a user interface envorment(v2)_ <br>
+_Code also includes a priority stack impementation_
